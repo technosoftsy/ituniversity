@@ -37,7 +37,7 @@ else
 define( 'DB_NAME', 'ituniversity' );
 define( 'DB_USER', 'abd' );
 define( 'DB_PASSWORD', 'Ha&Ab@2022' );
-define( 'DB_HOST', '66.96.147.115' );	
+define( 'DB_HOST', 'abdlwahhab39126.ipagemysql.com' );	
 
 
 }
