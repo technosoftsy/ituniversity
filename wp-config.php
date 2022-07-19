@@ -35,7 +35,7 @@ define( 'DB_HOST', 'localhost' );
 else
 {
 define( 'DB_NAME', 'ituniversity' );
-define( 'DB_USER', 'abdlwahhab' );
+define( 'DB_USER', 'abd' );
 define( 'DB_PASSWORD', 'Ha&Ab@2022' );
 define( 'DB_HOST', '127.0.0.1' );	
 
